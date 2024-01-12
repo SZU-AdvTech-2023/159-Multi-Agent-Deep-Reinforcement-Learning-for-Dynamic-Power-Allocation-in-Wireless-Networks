@@ -1,0 +1,9 @@
+@article{REPO159,
+    author = "Nasir, Yasar Sinan and Guo, Dongning",
+    journal = "IEEE Journal on Selected Areas in Communications",
+    number = "10",
+    pages = "2239-2250",
+    title = "{Multi-Agent Deep Reinforcement Learning for Dynamic Power Allocation in Wireless Networks}",
+    volume = "37",
+    year = "2019"
+}
